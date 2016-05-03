@@ -1,1 +1,0 @@
-# cubrid-manager-jfreechart
